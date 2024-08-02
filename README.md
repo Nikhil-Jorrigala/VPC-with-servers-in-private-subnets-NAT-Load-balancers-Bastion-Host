@@ -9,8 +9,6 @@ Step 1: Clone the Repository
 git clone <repository-url>
 cd <repository-folder>
 Step 2: Open the Files in Visual Studio Code
-
-code .
 Step 3: Edit Variables and Names
 Edit the variables and names in the .tf files according to your requirements.
 
